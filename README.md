@@ -2,7 +2,9 @@
 
 This is an OS developed by me
 
-Maybe someday it will do these things:
+
+#Goals
+
   Have a file system
 
   Allocate memory functions
