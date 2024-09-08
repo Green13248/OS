@@ -3,6 +3,9 @@
 This is an OS developed by me
 
 Maybe someday it will do these things:
+  Have a file system
+
+  Allocate memory functions
 
   Run in 32 bit mode
   
@@ -12,7 +15,7 @@ Maybe someday it will do these things:
   
   Have some form of language compiler (C, C++, Perl)
   
-  Run some form of web/internet browser
+  Run some form of network card driver
   
   Be able to open things like bitmaps and png or jpegs
   
