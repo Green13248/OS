@@ -20,6 +20,3 @@ This is an OS developed by me
   Run some form of network card driver
   
   Be able to open things like bitmaps and png or jpegs
-  
-  Be not all asm
-  
