@@ -1,14 +1,14 @@
-# OS
+# OS 🖥️
 
 This is an OS developed by me
 
-# Commands
+# Commands 📜
 
 c - clears screen
 
 F - opens file browser
 
-# Goals
+# Goals 🛠️
 
   Have a file system
 
