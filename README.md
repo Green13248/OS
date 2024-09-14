@@ -5,6 +5,7 @@ This is an OS developed by me
 # Commands
 
 c - clears screen
+
 F - opens file browser
 
 # Goals
