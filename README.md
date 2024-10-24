@@ -20,7 +20,7 @@ F - opens file browser
   
   Have some form of window manager/windowing system (Might be x11 or other)
   
-  Have some form of language compiler (C, C++, Perl)
+  Have some form of language compiler (C, C++, etc)
   
   Run some form of network card driver
   
