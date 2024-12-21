@@ -10,7 +10,7 @@ This is an OS developed by me
 
   Run in 32 bit mode (Set up GDT etc)
 
-#Life Goals
+# Life Goals
   
   Run in 64 bit mode (Um someday lol)
   
