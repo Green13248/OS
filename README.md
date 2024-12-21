@@ -1,6 +1,6 @@
 # OS 🖥️
 
-This is an OS developed by me
+This is an primative OS developed by me
 
 For education purposes duh
 
