@@ -1,6 +1,6 @@
 # OS 🖥️
 
-This is an primative OS developed by me
+This is an primative OS developed by me in asm (intel syntax on top)
 
 For education purposes duh
 
