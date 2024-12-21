@@ -2,6 +2,8 @@
 
 This is an OS developed by me
 
+For education purposes duh
+
 # Goals 🛠️
 
   Have a file system (FAT12)
