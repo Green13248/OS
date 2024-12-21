@@ -2,26 +2,20 @@
 
 This is an OS developed by me
 
-# Commands 📜
-
-c - clears screen
-
-F - opens file browser
-
 # Goals 🛠️
 
-  Have a file system
+  Have a file system (FAT12)
 
-  Allocate memory functions
+  Allocate memory functions (Bitmap memory in c)
 
-  Run in 32 bit mode
+  Run in 32 bit mode (Set up GDT etc)
+
+#Life Goals
   
-  Run in 64 bit mode
+  Run in 64 bit mode (Um someday lol)
   
   Have some form of window manager/windowing system (Might be x11 or other)
   
-  Have some form of language compiler (C, C++, etc)
+  Have some form of language compiler (C, BASIC, etc)
   
-  Run some form of network card driver
-  
-  Be able to open things like bitmaps and png or jpegs
+  Run some form of network card driver (Yikes)
