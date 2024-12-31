@@ -16,11 +16,14 @@
 	mov cl, 2                       ; sector number
 	mov bx, Load             ; load into es:bx segment :offset of buffer
 	int 0x13                        ; disk I/O interrupt
+    mov ah, 0x00
+	mov al, 0x03
+	int 0x10
 	TIMES 510 - ($ - $$) db 0
 	DW 0xAA55
 Load:
 	mov ah, 0x00
 	mov al, 0x0E
 	int 0x10
-	%include "kernelpoint.asm"
-	call "kernelpoint.asm"
+	%include "C:\Users\tamer\Desktop\OS\OS.asm"
+	call "C:\Users\tamer\Desktop\OS\OS.asm"
