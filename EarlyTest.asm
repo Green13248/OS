@@ -1,4 +1,3 @@
-;Written by Ben Hall 2024
 global start
 section .text
 [ORG 0x7c00]
