@@ -2,22 +2,14 @@
 
 This is an primative OS developed by me in asm (intel syntax on top)
 
-For education purposes duh
+For education purposes (myself)
 
-# Goals 🛠️
+Has a file system! (USTAR inspired read only type)
 
-  Have a file system (FAT12)
+# Commands
 
-  Allocate memory functions (Bitmap memory in c)
+d for a simple dir
 
-  Run in 32 bit mode (Set up GDT etc)
+r followed by 1-5 depending on the file
 
-# Life Goals
-  
-  Run in 64 bit mode (Um someday lol)
-  
-  Have some form of window manager/windowing system (Might be x11 or other)
-  
-  Have some form of language compiler (C, BASIC, etc)
-  
-  Run some form of network card driver (Yikes)
+c to clear the screen
