@@ -16,7 +16,7 @@
 	mov cl, 2                       ; sector number
 	mov bx, Load             ; load into es:bx segment :offset of buffer
 	int 0x13                        ; disk I/O interrupt
-    mov ah, 0x00
+    	mov ah, 0x00
 	mov al, 0x03
 	int 0x10
 	TIMES 510 - ($ - $$) db 0
