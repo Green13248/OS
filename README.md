@@ -1,4 +1,4 @@
-# OS 🖥️
+# OS
 
 This is an primative OS developed by me in asm (intel syntax on top)
 
